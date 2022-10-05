@@ -1,0 +1,22 @@
+p {
+    color: pink;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button {
+    background-color: yellow;
+    color: blue;
+    font-size: large;
+}
+
+select {
+    background-color: aquamarine;
+    color: blueviolet;
+    font-size: larger;
+}
+
+h1 {
+    color: red;
+    font-size: larger;
+    background-color: black;
+}
